@@ -19,4 +19,11 @@ siliconera.com
 gameskinny.com
 
 # Source: https://www.thegamer.com/group-of-wow-redditors-trolled-news-website-zleague-ai-generated-articles-glorbo/
+thearenagroup.net
+
+# Source: https://futurism.com/sports-illustrated-ai-generated-writers
+# Source: https://futurism.com/gannett-promised-responsible-ai-bungling
 zleague.gg
+thestreet.com
+parade.com
+si.com
