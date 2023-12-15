@@ -1,1 +1,22 @@
+# Source: https://futurism.com/the-byte/gaming-sites-writers-ai-editor
+gamurs.group
+dotesports.com
+progameguides.com
+gamepur.com
+twinfinite.net
+primagames.com
+touchtapplay.com
+gamerjournalist.com
+attackofthefanboy.com
+wegotthiscovered.com
+themarysue.com
+destructoid.com
+operationsports.com
+pcinvasion.com
+upcomer.com
+escapistmagazine.com
+siliconera.com
+gameskinny.com
 
+# Source: https://www.thegamer.com/group-of-wow-redditors-trolled-news-website-zleague-ai-generated-articles-glorbo/
+zleague.gg
