@@ -6,4 +6,9 @@ If you have any reason to believe that a website may be using ai-generation exce
 Add to your pi-hole / dns blocker of your choice via:
 https://raw.githubusercontent.com/mklemmingen/StopTheToken/main/blocklist.txt
 
+Rules for adding:
+    - Each line should contain only one domain.
+    - Avoid adding comments in the same line as a domain.If needed, you can use a separate file for explanations or place comments in the README.
+    - The list should not include protocol prefixes (http://, https://) or paths (/page). Only the domain names or subdomains.
+
 
