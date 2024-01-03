@@ -27,3 +27,6 @@ zleague.gg
 thestreet.com
 parade.com
 si.com
+
+# ai created personality "degomon" with spam websites
+devcodef1.com
