@@ -30,3 +30,6 @@ si.com
 
 # ai created personality "degomon" with spam websites
 devcodef1.com
+
+# lazy unchecked website creating articles about frequently asked questions of popular video games. See https://pupuweb.com/recommended-free-seo-toolkit-listing/ to find them actually saying after 4 pages that ChatGpT is a tool they use... exklusively and automatically
+pupuweb.com
