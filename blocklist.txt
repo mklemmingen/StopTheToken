@@ -49,3 +49,6 @@ HistoryAllDay.com
 # scrambled together website with huge output of same scheme articles about hot air
 
 knowledgesnacks.com
+
+# ai generated articles about madagascar, as displayed by incomplete website setup, no actual contact info, fake personas
+madagascarcharm.com
