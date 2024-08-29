@@ -52,3 +52,6 @@ knowledgesnacks.com
 
 # ai generated articles about madagascar, as displayed by incomplete website setup, no actual contact info, fake personas
 madagascarcharm.com
+
+# AI articles about Pets. "KIA" is an AI-Bot. Lots of repeated sentences.
+petssafekeeping.com
