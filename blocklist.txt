@@ -53,5 +53,5 @@ knowledgesnacks.com
 # ai generated articles about madagascar, as displayed by incomplete website setup, no actual contact info, fake personas
 madagascarcharm.com
 
-# AI articles about Pets. "KIA" is an AI-Bot. Lots of repeated sentences.
+# AI articles about Pets. "KIA" is an AI-Bot. Lots of repeated sentences. The Picture used for "Kia Joel" on the /about is of a man named "Rob Saenz".
 petssafekeeping.com
