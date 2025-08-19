@@ -58,3 +58,6 @@ petssafekeeping.com
 
 # AI generated slop
 markaicode.com
+
+# ai-generated articles... about ai
+umatechnology.org
