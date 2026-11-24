@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-dark-text.svg">
+    <img src="assets/wordmark-light-text.svg" alt="StopTheToken: a community blocklist for AI-generated sites" width="520">
+  </picture>
+</p>
+
 # StopTheToken
 pihole blocklist for ai-generated websites. community-fed -> add to it! 
 
